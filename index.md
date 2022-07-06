@@ -8,6 +8,16 @@
 ## Cloud Experience
 
 **Microsoft Azure**
+
+- Consulted for enterprise clients using the Azure suite
+- Provision, automate and scale ElasticSearch OpenDistro Audit & Logging Architecture (ELK)
+- Backup, restore, destroy & reprovision entire architecture & Kibana state from a snapshot stored on an encrypted Azure Storage Account
+- Maintain Terraform state files and restore from a corrupt state
+- Preserve high-traffic events with Azure Service Bus
+- Implement and troubleshoot release pipelines using Azure DevOps
+- Coordinate environment-specific parameterized variables and deploy to their respective environment pipelines
+
+*Certifications:*
 <table border="0">
  <tr>
     <td>
@@ -19,3 +29,13 @@ Azure Data Engineer
  </tr>
  </table>
 
+**Amazon Web Services**
+
+- AWS Lambda Functions implemented as an idempotent transaction retrieval & ETL script
+- AWS Lambda Layers used as an error logging integration
+- AWS Cloudwatch consumed error logs from the Lambda Layer and forwarded to webhook integrations
+- AWS SimpleDB implmented as lightweight backend for a minimal web application
+
+**Google Cloud Platform**
+- GCP Firebase implmented lightweight backend for a React Native app in the healthcare sector
+- Google Cloud APIs used as a ETL to parse data from an image and pipe into a Firebase DB
