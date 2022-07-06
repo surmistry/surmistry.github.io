@@ -1,6 +1,6 @@
 ## Suraj J Mistry
 
-[@surmistry](https://www.linkedin.com/in/surmistry/) is a full stack web ninja who has their head in the clouds (Microsoft Azure, Amazon Web Service). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what is passionate about, but has worked heavily in NodeJS, React, Vue, and GraphQL.
+[@surmistry](https://www.linkedin.com/in/surmistry/) is a full stack web ninja who has their head [in the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what is passionate about, but has worked heavily in NodeJS, React, Vue, and GraphQL.
 
 <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
 
