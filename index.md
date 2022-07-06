@@ -23,9 +23,9 @@
     <td>
 Azure Data Engineer
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c7a82dc-076c-4ee7-9bbf-8899ff7e8e22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</b></td>
+</td>
     <td>Azure Developer Associate
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="282d223a-5388-44fd-a6bd-5f2ff64d2047" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></b></td>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="282d223a-5388-44fd-a6bd-5f2ff64d2047" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
  </tr>
  </table>
 
