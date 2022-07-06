@@ -2,7 +2,7 @@
 
 @surmistry is a full stack web ninja who has their head in the clouds (Microsoft Azure, Amazon Web Service). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what is passionate about, but has worked heavily in NodeJS, React, Vue, and GraphQL.
 
-<img src="./assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
+<img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
