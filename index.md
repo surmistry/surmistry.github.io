@@ -1,18 +1,31 @@
 ## Suraj J Mistry
 
-[@surmistry](https://www.linkedin.com/in/surmistry/) is a full stack web ninja who has their head [in the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what is passionate about, but has worked heavily in NodeJS, React, Vue, and GraphQL.
+[@surmistry](https://www.linkedin.com/in/surmistry/) is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL.
 
-<img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
+   <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
+ 
+## Full Stack Experience
 
+Backend:
+- Written RESTful API endpoints for MongoDB, PostgresDB
+- Developed complex GraphQL queries and caching for heavy searches
+- Worked in Ruby on Rails
+
+
+Frontend:
+- Experienced with ReactJS & Redux, VueJS, TypeScript, ElectronJS
+- Blackboxed legacy APIs (Adobe ExtendScript) to automate and innovate manual processes
+- Published and documented automation scripts as private npm packages
+- Studied webpack comprehensively for bundling, transpiling, and poly-filling   
 
 ## Cloud Experience
 
 **Microsoft Azure**
 
-- Consulted for enterprise clients using the Azure suite
-- Provision, automate and scale ElasticSearch OpenDistro Audit & Logging Architecture (ELK)
-- Backup, restore, destroy & reprovision entire architecture & Kibana state from a snapshot stored on an encrypted Azure Storage Account
-- Maintain Terraform state files and restore from a corrupt state
+- Consulted in Azure for enterprise clients using the Azure suite
+- Provisioned, automateed and scaleed ElasticSearch OpenDistro Audit & Logging Architecture (ELK)
+- Backed up, restored, destroyed & reprovisioned an entire architecture & Kibana state from a snapshot stored on an encrypted Azure Storage Account
+- Maintain Terraform state files and restored state when  corrupted out of sync
 - Preserve high-traffic events with Azure Service Bus
 - Implement and troubleshoot release pipelines using Azure DevOps
 - Coordinate environment-specific parameterized variables and deploy to their respective environment pipelines
