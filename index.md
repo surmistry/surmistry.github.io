@@ -7,13 +7,14 @@
 
 ## Full Stack Experience
 
-Backend:
+**Backend**
+
 - Written RESTful API endpoints for MongoDB, PostgresDB
 - Developed complex GraphQL queries and caching for heavy searches
 - Worked in Ruby on Rails
 
+**Frontend**
 
-Frontend:
 - Experienced with ReactJS & Redux, VueJS, TypeScript, ElectronJS
 - Blackboxed legacy APIs (Adobe ExtendScript) to automate and innovate manual processes
 - Published and documented automation scripts as private npm packages
