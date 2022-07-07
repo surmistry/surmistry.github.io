@@ -36,7 +36,7 @@ This repo is an overengineered ASCII art of a double or triple Helix
 **Microsoft Azure**
 
 - Consulted in Azure for enterprise clients using the Azure suite
-- Provisioned, automateed and scaleed ElasticSearch OpenDistro Audit & Logging Architecture (ELK)
+- Provisioned, automated and scaled ElasticSearch OpenDistro Audit & Logging Architecture (ELK)
 - Backed up, restored, destroyed & reprovisioned an entire architecture & Kibana state from a snapshot stored on an encrypted Azure Storage Account
 - Maintain Terraform state files and restored state when  corrupted out of sync
 - Preserve high-traffic events with Azure Service Bus
