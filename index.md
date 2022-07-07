@@ -1,9 +1,8 @@
 ## Suraj J Mistry
 
-<!-- [@surmistry]() is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL. -->
 <div style="display: flex">
-   <span><a href="https://www.linkedin.com/in/surmistry/">@surmistry</a> is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL.</a></span>
-   <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
+   <span><a target="_blank" href="https://www.linkedin.com/in/surmistry/">@surmistry</a> is a <a href="https://surmistry.github.io/#full-stack-experience">full stack developer</a> who has their head in <a href="https://surmistry.github.io/#cloud-experience">the clouds</a>. He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL.</span>
+   <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200" style="margin-left: 5px; border-radius: 5px"/>
 </div> 
 
 ## Full Stack Experience
