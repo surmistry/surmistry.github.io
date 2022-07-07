@@ -1,9 +1,9 @@
 ## Suraj J Mistry
 
-[@surmistry](https://www.linkedin.com/in/surmistry/) is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL.
+<!-- [@surmistry]() is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL. -->
 <div style="display: flex">
+   <span><a href="https://www.linkedin.com/in/surmistry/">@surmistry is a [full stack developer](#full-stack-experience) who has their head in [the clouds](#cloud-experience). He has experience maintaining, developing, leading and consulting in professional environments. Consulting and advocating for cloud best practices is what he is passionate about, and he has strong experience in NodeJS, React & Redux, Vue, and GraphQL.</a></span>
    <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200"/>
-   <span>Hello this is flexbox working</span>
 </div> 
 
 ## Full Stack Experience
