@@ -6,6 +6,16 @@
    <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200" style="margin-left: 5px; border-radius: 5px"/>
 </div> 
 
+## Projects
+
+**[SVG Generator](https://github.com/surmistry/svg-generator)**
+The purpose of this repository is to create a geometric hero image.
+
+**[Helix Generator](https://github.com/surmistry/helix-generator)**
+This repo is an overengineered ASCII art of a double or triple Helix
+
+
+
 ## Full Stack Experience
 
 **Backend**
