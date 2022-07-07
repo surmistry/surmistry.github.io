@@ -9,9 +9,12 @@
 ## Projects
 
 **[SVG Generator](https://github.com/surmistry/svg-generator)**
+[![npm version](https://badge.fury.io/js/svg-generator.svg)](https://badge.fury.io/js/svg-generator)
+
 The purpose of this repository is to create a geometric hero image.
 
 **[Helix Generator](https://github.com/surmistry/helix-generator)**
+[![npm version](https://badge.fury.io/js/helix-generator.svg)](https://badge.fury.io/js/helix-generator)
 This repo is an overengineered ASCII art of a double or triple Helix
 
 
