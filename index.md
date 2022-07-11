@@ -6,6 +6,8 @@
    <img src="./docs/assets/suraj-walk.jpg" alt="suraj-mistry-profile" height="200" style="margin-left: 5px; border-radius: 5px"/>
 </div> 
 
+___
+
 ## Projects
 
 **[SVG Generator](https://github.com/surmistry/svg-generator)**
@@ -16,7 +18,7 @@ The purpose of this repository is to create a geometric hero image.
 
 This repo is an overengineered ASCII art of a double or triple Helix
 
-
+___
 
 ## Full Stack Experience
 
@@ -32,6 +34,8 @@ This repo is an overengineered ASCII art of a double or triple Helix
 - Blackboxed legacy APIs (Adobe ExtendScript) to automate and innovate manual processes
 - Published and documented automation scripts as private npm packages
 - Studied webpack comprehensively for bundling, transpiling, and poly-filling   
+
+___
 
 ## Cloud Experience
 
