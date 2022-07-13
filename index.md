@@ -25,12 +25,13 @@ Here is an example of deliberately overengineered solution to create ASCII art o
 
 PostgresQL and GraphQL backend to track workouts 
 Deliverables: 
-[ ] NPM integration
-[ ] Web interface to 
-    [ ] Display workout trends
-    [ ] Post to db from web
-[ ] POC to integrate backend with Ruby on Rails
-[ ] CLI integration
+
+- [ ] NPM integration
+- [ ] Web interface to 
+    - [ ] Display workout trends
+    - [ ] Post to db from web
+- [ ] POC to integrate backend with Ruby on Rails
+- [ ] CLI integration
 
 *[SVG Generator App](https://github.com/surmistry/svg-generator-app)*
 
@@ -39,9 +40,10 @@ A web interface to easily interface with the [SVG Generator](#projects) as an np
 *[SVG Generator](https://github.com/surmistry/svg-generator)*
 
 Add different shapes
-[ ] Basic Rectangle
-[ ] Triangle
-[ ] Custom SVG (?) - heavy calculations required
+
+- [ ] Basic Rectangle
+- [ ] Triangle
+- [ ] Custom SVG (?) - heavy calculations required
 ___
 
 ## Full Stack Experience
