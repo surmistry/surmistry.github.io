@@ -37,8 +37,7 @@ Create a geometric hero image for a website header.
 
 Here is an example of deliberately overengineered solution to create ASCII art of a double or triple Helix.
 
- ### WIP
-**[Go REST API](https://github.com/surmistry/dish-rank-go)**
+WIP: **[Go REST API](https://github.com/surmistry/dish-rank-go)**
 Practice writing Golang for it's innovative and efficient execution properties.
 
 <!--
