@@ -12,18 +12,62 @@ ___
 
 **Backend**
 
-- Written RESTful API endpoints for MongoDB, PostgresDB
+- RESTful API endpoints in Node and Go for MongoDB, PostgresDB
+- Add migrations and TDD for a MVC framework in Ruby on Rails
 - Developed complex GraphQL queries and caching for heavy searches
-- Worked in Ruby on Rails
 
 **Frontend**
 
 - Experienced with ReactJS & Redux, VueJS, TypeScript, ElectronJS
-- Blackboxed legacy APIs (Adobe ExtendScript) to automate and innovate manual processes
 - Published and documented automation scripts as private npm packages
-- Studied webpack comprehensively for bundling, transpiling, and poly-filling   
+- Extensive webpack experience running complicated bundling, transpiling, and poly-filling   
+
+
 
 ___
+
+## Projects
+
+
+**[SVG Generator](https://github.com/surmistry/svg-generator)**
+
+Create a geometric hero image for a website header.
+
+**[Helix Generator](https://github.com/surmistry/helix-generator)**
+
+Here is an example of deliberately overengineered solution to create ASCII art of a double or triple Helix.
+
+ ### WIP
+**[Go REST API](https://github.com/surmistry/dish-rank-go)**
+Practice writing Golang for it's innovative and efficient execution properties.
+
+<!--
+*[Workout Tracker](https://github.com/surmistry/workout-tracker)*
+
+PostgresQL and GraphQL backend to track workouts 
+Deliverables: 
+
+- [ ] NPM integration
+- [ ] POC to integrate backend with Ruby on Rails
+- [ ] CLI integration
+- [ ] Web interface to 
+    - [ ] Display workout trends
+    - [ ] Post to db from web
+
+*[SVG Generator App](https://github.com/surmistry/svg-generator-app)*
+
+A web interface to easily interface with the [SVG Generator](#projects) as an npm package and test, preview and download hero images.
+
+*[SVG Generator](https://github.com/surmistry/svg-generator)*
+
+Add different shapes
+
+- [ ] Basic Rectangle
+- [ ] Triangle
+- [ ] Custom SVG (?) - heavy calculations required -->
+
+___
+
 
 ## Cloud Experience
 
@@ -59,41 +103,3 @@ Azure Data Engineer
 **Google Cloud Platform**
 - GCP Firebase implmented lightweight backend for a React Native app in the healthcare sector
 - Google Cloud APIs used as a ETL to parse data from an image and pipe into a Firebase DB
-
-___
-
-## Projects
-
-**[SVG Generator](https://github.com/surmistry/svg-generator)**
-
-The purpose of this repository is to create a geometric hero image.
-
-**[Helix Generator](https://github.com/surmistry/helix-generator)**
-
-Here is an example of deliberately overengineered solution to create ASCII art of a double or triple Helix.
-
-### WIP
-
-*[Workout Tracker](https://github.com/surmistry/workout-tracker)*
-
-PostgresQL and GraphQL backend to track workouts 
-Deliverables: 
-
-- [ ] NPM integration
-- [ ] POC to integrate backend with Ruby on Rails
-- [ ] CLI integration
-- [ ] Web interface to 
-    - [ ] Display workout trends
-    - [ ] Post to db from web
-
-*[SVG Generator App](https://github.com/surmistry/svg-generator-app)*
-
-A web interface to easily interface with the [SVG Generator](#projects) as an npm package and test, preview and download hero images.
-
-*[SVG Generator](https://github.com/surmistry/svg-generator)*
-
-Add different shapes
-
-- [ ] Basic Rectangle
-- [ ] Triangle
-- [ ] Custom SVG (?) - heavy calculations required
