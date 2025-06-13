@@ -6,12 +6,12 @@
   <style>
     body > div.markdown-body > h1 { display: none}
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
-    header { background: #0066cc; color: #fff; padding: 2rem; text-align: center; }
+    header { background: #0c551e; color: #fff; padding: 2rem; text-align: center; }
     nav a { margin: 0 1rem; color: #fff; text-decoration: none; }
     section { padding: 2rem; max-width: 800px; margin: auto; }
     h2 { border-bottom: 2px solid #eee; padding-bottom: .5rem; }
     footer { background: #f5f5f5; text-align: center; padding: 1rem; font-size: .9rem; color: #666; }
-    .btn { display: inline-block; padding: .7rem 1.2rem; background: #0066cc; color: #fff; text-decoration: none; border-radius: 4px; }
+    .btn { display: inline-block; padding: .7rem 1.2rem; background: #0c551e; color: #fff; text-decoration: none; border-radius: 4px; }
   </style>
 </head>
 <body>
