@@ -1,10 +1,10 @@
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Suraj Mistry – Full Stack Engineer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
+    body > div.markdown-body > h1 { display: none}
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
     header { background: #0066cc; color: #fff; padding: 2rem; text-align: center; }
     nav a { margin: 0 1rem; color: #fff; text-decoration: none; }
@@ -30,7 +30,6 @@
 <section id="about">
   <h2>About Me</h2>
     <p>I’m a dedicated Full Stack Engineer based in Toronto, Ontario, with a strong background in cloud computing, web services, and cross-team project leadership. I’ve worked extensively across the MERN, and GraphQL to deliver scalable, efficient, and secure solutions.</p>
-  </p>
 </section>
 
 <section id="experience">
@@ -45,7 +44,7 @@
   </ul>
 
   <h3>Software Developer | Weever Apps Inc</h3>
-  <p><em>July 2022 – September 2024 | Toronto, ON; Clients: Walmart, Mars, HelloFresh...</em></p>
+  <p><em>July 2022 – September 2024 | Toronto, ON; <strong>Clients: Walmart, Mars, HelloFresh...</strong></em></p>
   <ul>
     <li>Provided insights for cloud-based optimizations in AWS to increase efficiency on the DevOps team by 15% on deployment and backup pipelines.</li>
     <li>Participated in client consultation and advised key features to client VPs. Successfully predicted and implemented client feature needs using Vue.js, React, and Next.js, which increased client trust by 80%.
@@ -55,7 +54,7 @@
   </ul>
 
   <h3>Fullstack Engineer & Cloud Migration Consultant | Tidal Migrations</h3>
-  <p><em>June 2020 – June 2022 | Toronto, ON</em></p>
+  <p><em>June 2020 – June 2022 | Toronto, ON; <strong>Clients: Ministry of Transportation Ontario, Statistics Canada</strong></em></p>
   <ul>
     <li>Deploy SwaggerJS documentation, a ReactJS plugin, and maintain documentation for users to authenticate and test API integrations.</li>
     <li>Add UAT for integration tests in React for displaying migration tool</li>
@@ -93,9 +92,9 @@
   <a href="https://www.linkedin.com/in/surmistry/" class="btn" target="_blank">View on LinkedIn</a>
 </section>
 
-<!-- <footer>
+<footer>
   <p>© 2025 Suraj Mistry. Based in Toronto, Canada.</p>
-</footer> -->
+</footer>
 
 </body>
 </html>
