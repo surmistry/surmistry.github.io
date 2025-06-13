@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
+    header { background: #0066cc; color: #fff; padding: 2rem; text-align: center; }
+    nav a { margin: 0 1rem; color: #fff; text-decoration: none; }
     section { padding: 2rem; max-width: 800px; margin: auto; }
     h2 { border-bottom: 2px solid #eee; padding-bottom: .5rem; }
     footer { background: #f5f5f5; text-align: center; padding: 1rem; font-size: .9rem; color: #666; }
@@ -14,8 +16,8 @@
 </head>
 <body>
 
-<section id="header">
-  <h>Suraj Mistry</h>
+<header>
+  <h1>Suraj Mistry</h1>
   <p>Full Stack Engineer with 7+ Years of Experience and Exceptional Cloud Skills</p>
   <nav>
     <a href="#about">About</a>
@@ -23,11 +25,12 @@
     <a href="#education">Education</a>
     <a href="#contact">Contact</a>
   </nav>
-</section>
+</header>
 
 <section id="about">
   <h2>About Me</h2>
-  <p>I’m a dedicated Full Stack Engineer based in Toronto, Ontario, with a strong background in cloud computing, web services, and cross-team project leadership. I’ve worked extensively across the MERN, and GraphQL to deliver scalable, efficient, and secure solutions.</p>
+    <p>I’m a dedicated Full Stack Engineer based in Toronto, Ontario, with a strong background in cloud computing, web services, and cross-team project leadership. I’ve worked extensively across the MERN, and GraphQL to deliver scalable, efficient, and secure solutions.</p>
+  </p>
 </section>
 
 <section id="experience">
@@ -90,9 +93,9 @@
   <a href="https://www.linkedin.com/in/surmistry/" class="btn" target="_blank">View on LinkedIn</a>
 </section>
 
-<footer>
+<!-- <footer>
   <p>© 2025 Suraj Mistry. Based in Toronto, Canada.</p>
-</footer>
+</footer> -->
 
 </body>
 </html>
